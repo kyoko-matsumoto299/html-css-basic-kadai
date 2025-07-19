@@ -1,3 +1,0 @@
-.rotated {
-  transform: rotate(20deg); /* rotateZ(45deg) と等価 */
-}
